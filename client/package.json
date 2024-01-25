@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server .",
-    "build":  "[my-framework] build --output public"
+    "build":  "webpack ."
   },
   "keywords": [],
   "author": "",
